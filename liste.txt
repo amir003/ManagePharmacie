@@ -1,0 +1,25 @@
+Seretide : thrush, hypokalemia, palpitations, sinusitis.
+Dafalgan : anaphylacticReaction, erythema, leukopenia, neutropenia.
+Aspirine : anaphylacticReaction, hyperventilation, dizziness, bronchospasm.
+Voltaren : vomiting, hives, céphalée, dizziness, somnolence.
+Ketoprofène : vomiting, dizziness , hyperkalemia.
+Airomir : palpitations.
+Loratadine : dizziness, palpitations, anaphylacticReaction.
+Smecta : vomiting, flatulence.
+Bipreterax : headache, asthenia, vomiting, dizziness.
+Betanol : asthenia, insomnia.
+Cilest : coronaropathies, headache.
+Carbaglu : bradycardia, vomiting, fevers.
+Phénergan : dizziness, anaphylacticReaction, thrombocytopenia, insomnia.
+Epinitril : hypotension, syncope.
+Lexomil : headache, ataxia, diplopia, asthenia.
+Tetagrip : erythema, fevers, asthenia, dyspnea, headache.
+Riastrap : anaphylacticReaction, dyspnea, pulmonaryEmbolism.
+Xanax : headache, ataxia, asthenia, diplopia.
+Reactine : dizziness, headache, hives, anaphylacticReaction.
+Eptativ : anaphylacticReaction, hives.
+Loxen : headache, palpitations, tachycardia.
+Tiorfast : asthenia, fevers, headache.
+Xolair : anaphylacticReaction, fevers, syncope, headache.
+Tranxène : diplopia, asthenia.
+Epitomax : anemia, dizziness, tinnitus.
